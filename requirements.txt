@@ -1,0 +1,7 @@
+streamlit
+geopandas
+rasterio
+scikit-learn
+matplotlib
+pandas
+numpy
